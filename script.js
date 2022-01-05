@@ -3,7 +3,7 @@ const placeToPutCountDown = document.getElementById("placeToPutCountDown");
 const placeForTime = document.getElementById("placeForTime");
 
 // Examensdatum
-const examensDatum = new Date("September 23, 2022 17:00:00").getTime();
+const examensDatum = new Date("September 6, 2023 17:00:00").getTime();
 
 const x = setInterval(function () {
   // Hämta dagens datum
